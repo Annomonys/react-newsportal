@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-newsportal/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-newsportal/static/js/main.a22910b3.chunk.js",
+    "main.js.map": "/react-newsportal/static/js/main.a22910b3.chunk.js.map",
+    "runtime-main.js": "/react-newsportal/static/js/runtime-main.aab513ca.js",
+    "runtime-main.js.map": "/react-newsportal/static/js/runtime-main.aab513ca.js.map",
+    "static/js/2.d3b9cb94.chunk.js": "/react-newsportal/static/js/2.d3b9cb94.chunk.js",
+    "static/js/2.d3b9cb94.chunk.js.map": "/react-newsportal/static/js/2.d3b9cb94.chunk.js.map",
+    "index.html": "/react-newsportal/index.html",
+    "precache-manifest.ff8d6353bf822c26a954c7f2d4667b82.js": "/react-newsportal/precache-manifest.ff8d6353bf822c26a954c7f2d4667b82.js",
+    "service-worker.js": "/react-newsportal/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-newsportal/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d3b9cb94.chunk.js.LICENSE.txt": "/react-newsportal/static/js/2.d3b9cb94.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-newsportal/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aab513ca.js",
+    "static/js/2.d3b9cb94.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a22910b3.chunk.js"
+  ]
+}
